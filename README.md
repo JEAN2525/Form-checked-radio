@@ -1,0 +1,1 @@
+Pruebas en el diseñlo de formulario basado en input type checked y radio, ya que estos elementos son unos de los mas complejos de Diseñar con css, se aplica el estilo en el mismo codigo fuente de html ya que es solo unas pruebas
